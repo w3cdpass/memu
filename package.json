@@ -1,0 +1,17 @@
+{
+  "name": "memwatch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.mjs",
+  "type": "module",
+  "scripts": {
+    "start": "node index.mjs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "blessed": "^0.1.81",
+    "string-width": "^7.2.0"
+  }
+}
